@@ -33,7 +33,7 @@ para fazer isso, pois através da API Linking do React Native, o APP automatiza 
 2. Instale todas as dependencias do projeto, (lembrando que para que uma dependência seja considerada dependência de desenvolvimento,
 no momento da instalação, deve ser adicionado o "-D". 
 
-_Ex: npm install nodemon -D_
+___Ex:__ npm install nodemon -D_
 
 3. Abra o diretório do "backend" pela prompt de comando e execute "npm start"
 
