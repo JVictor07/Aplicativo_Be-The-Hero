@@ -16,6 +16,8 @@ Este incrível projeto foi feito com:
 
 ## O Que é o Be The Hero? 🤔
 Be the Hero é uma aplicação que liga ONGs e pessoas dispostas a ajudarem de forma financeira.
+
+__Jornada dos usuários:__
 1. As ONGs se cadastram via WEB e recebem uma página onde podem fazer cadastros de casos em que precisam de ajuda.
 
 2. Estes casos são salvos dentro de um banco de dados, e disponibilizados para a aplicação mobile.
